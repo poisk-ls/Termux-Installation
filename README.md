@@ -49,6 +49,7 @@ termux-setup-storage.**
 **USAGE:**
 - python termux-package.py
 
+**•MIT LICENSE•**
 
 ## SIMILAR TO Termux-Installation
 **https://github.com/poisk-ls/jade-cmd**
