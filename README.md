@@ -1,8 +1,12 @@
 # Termux Basic Packages 
 
-If you are looking for basic packages of termux then this is right tool for you. Follow the given commands and install basic packages in termux. And This Tool is made for Termux beginner.And it's a very easy to use and install. This tool is coded in python . 
+If you are looking for basic packages of termux then this is right tool for you. Follow the given commands and install basic packages in termux.
 
-## Tool Installs This packages
+**This Tool is made for Termux beginner.**
+
+**This tool is coded in python.**
+
+## List of tool packages
  
  -  python
  -  python2
@@ -29,37 +33,22 @@ If you are looking for basic packages of termux then this is right tool for you.
  -  host
 
 
-This command for access the storage in termux 
-termux-setup-storage.
+**This command for access the storage in termux 
+termux-setup-storage.**
 
 
-## Installation 
- 
-## Termux
-   ```
-   $ apt install git 
-   ```
-   ```
-   $ apt install python 
-   ```
-   ```
-   $ git clone https://github.com/Hackertrackersj/Termux--Package
-   ```
-   ```
-   $ cd Termux-package
-   ```
-   ```
-   $ ls
-   ```
-   ```
-   $ chmod +x *
-   ```
-   ```
-   $ ls
-   ```
-   ```
-   $ python termux-package.py
-```
+## Installation Command
+- pkg install git -y
+- pkg install python -y
+- git clone https://github.com/poisk-ls/Termux-Installation
+- cd Termux-Installation
+- ls
+- chmod +x termux-package.py
+- ls
+
+**USAGE:**
+- python termux-package.py
 
 
-
+## SIMILAR TO Termux-Installation
+**https://github.com/poisk-ls/jade-cmd**
