@@ -45,8 +45,9 @@ termux-setup-storage.**
 - ls
 
 **USAGE:**
-- python termux-package.py
-
+```diff
++  python termux-package.py
+```
 **•MIT LICENSE•**
 
 ## SIMILAR TO Termux-Installation
